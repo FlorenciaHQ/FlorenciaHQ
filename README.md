@@ -58,10 +58,29 @@
 <br>
 
 <details>
- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=FlorenciaHQ)
+    <summary>&#128187 <b>Actividades en GitHub</b></summary><br/>
+
+<!--START_SECTION:activity-->
+-Actualmente trabajando en: `Henropoly`.
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+    <summary>&#127942 <b>Premios de GitHub</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=FlorenciaHQ)
+
+</details>
+
+<details>
+    <summary>&#9889 <b>Estadísticas en GitHub</b></summary><br/>
+
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FlorenciaHQ&show_icons=true&theme=tokyonight)
 [![Mis lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenciaHQ&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- </details>
+
+
+</details>
 
 # Contáctame:
 ### 📧 Email:
