@@ -57,6 +57,12 @@
 <!-- markdownlint-enable MD033 -->
 <br>
 
+<details>
+ ![Github Trophy](https://github-profile-trophy.vercel.app/?username=FlorenciaHQ)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FlorenciaHQ&show_icons=true&theme=tokyonight)
+[![Mis lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenciaHQ&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ </details>
+
 # Contáctame:
 ### 📧 Email:
 - florenciahidalgoq@hotmail.com
