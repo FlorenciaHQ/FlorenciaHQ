@@ -39,7 +39,7 @@
 -Recipes App 🥧🍔 --> Full stack app que consume una API para mostrar y crear nuevas recetas! [Click here!](https://github.com/FlorenciaHQ/PI-Food-FT15a)
 <br>
 
--Breaking Bad Fan App ⭐🎞 --> Full stack app consuming an api to show characters from the TV serie ! [Click here!](https://github.com/FlorenciaHQ/RepasoPI-BreakingBad)
+-Breaking Bad Fan App ⭐🎞 --> Full stack app que consume una api para mostrar personajes de la serie de televisión ! [Click here!](https://github.com/FlorenciaHQ/RepasoPI-BreakingBad)
 
 ---
 <!-- markdownlint-enable MD033 -->
