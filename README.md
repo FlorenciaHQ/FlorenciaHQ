@@ -67,7 +67,7 @@ Para la creación de la página se consume de la API Spooncular. [Repo!](https:/
 </div>
 
 
-<p align="center">¡CONTACTAME!:<p>
+<p align="center">¡CONTACTAME!<p>
   
 <h1 align="center">
   
@@ -79,7 +79,7 @@ Para la creación de la página se consume de la API Spooncular. [Repo!](https:/
   </a>
 
   
-<a target="_blank" href="mailto:joseleonardoagreda@gmail.com">
+<a target="_blank" href="mailto:florenciahidalgoq@gmail.com">
   <img align="center" 
        alt="gmail" 
        width="30px" 
