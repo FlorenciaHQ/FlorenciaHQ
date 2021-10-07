@@ -1,94 +1,98 @@
+<h1 align="center">
+  <img src="./icons/Hi.gif" 
+       width="30px"> Hola, mi nombre es Florencia Hidalgo y soy desarrolladora web Full-Stack 💻
+</h1>
 
-- 👋 Hola, soy Florencia Hidalgo y soy desarrolladora web Full-Stack 💻
-- Soy de Argentina 
-- Me encanta el desarrollo web, creo aplicaciones y diferentes funcionalidades para mis sitios web. Realmente me gusta aprender más y más sobre todas las nuevas y mejores tecnologías en el maravilloso mundo de la programación.
-<!-- markdownlint-enable MD033 -->
+<p align="center">SKILLS:</p>
 
-## Tech-Stack 📗
-
-### Front-End
-
-<br>
-<div style={{ display:'flex' }}>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="50px" height="50px">
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" width="50px" height="50px">
-<img src="https://res.cloudinary.com/marcomadera/image/upload/v1602894559/Blog/7/css_k23ypb.png" width="50px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="50px" height="50px">
-<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50px" height="50px">
-<img src="https://img.icons8.com/color/480/bootstrap.png" width="50px" height="50px">
-<img src="https://img.icons8.com/color/452/redux.png" width="50px" height="50px">  
+<div align="center">
+    <table>
+    <tr>
+    <td align="center"><img height="50px" src="./icons/w3_html5-icon.svg"></td>
+    <td align="center"><img height="50px" src="./icons/css3.svg"></td>
+    <td align="center"><img height="50px" src="./icons/JavaScript_logo_2.svg.png"></td>
+    <td align="center"><img height="50px" src="./icons/nodejs-icon.svg"></td>
+    <td align="center"><img height="50px" src="./icons/reactjs-icon.svg"></td>
+    </tr>
+    <tr>
+        <td align="center">HTML5</td>
+        <td align="center">CSS3</td>
+        <td align="center">JavaScript</td>
+        <td align="center">NodeJS</td>
+        <td align="center">ReactJS</td>
+    </tr>
+    <tr>
+    <td align="center"><img height="50px" src="./icons/redux.svg"></td>
+    <td align="center"><img height="50px" src="./icons/expressjs-icon.svg"></td>
+    <td align="center"><img height="50px" src="./icons/sequelizejs-icon.svg"></td>
+    <td align="center"><img height="50px" src="./icons/postgresql-icon.svg"></td>
+    <td align="center"><img height="50px" src="./icons/git-scm-icon.svg"></td>
+    </tr>
+    <tr>
+        <td align="center">React Redux</td>
+        <td align="center">ExpressJS</td>
+        <td align="center">Sequelize</td>
+        <td align="center">PostgreSQL</td>
+        <td align="center">Git</td>
+    </tr>
+    </table>
 </div>
 
+<p align="center">PROYECTOS DESTACADOS: </p>
+
+-HENROPOLY  --> Proyecto grupal en el cual se desarrolla un juego inspirado en Monopoly y el bootcamp de Henry. Esta página permite loguearse, crear una sala en la cual otros pueden sumarse para jugar, elegir un token, comunicarse por chat general y un chat solo de la partida. [Repo](https://github.com/matiasgarrid0/Henropoly), [Tráiler](https://www.youtube.com/watch?v=5Sy9q5CwvDQ), [Deploy](https://henropoly.vercel.app/).
 <br>
 
-### Back-End
-<div style={{ display:'flex' }}>
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" width="120px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="120px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="50px" height="50px">
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/sequelize-logo-vector.svg" width="50px" height="50px">
-</div>  
-
----
-<!-- markdownlint-enable MD033 -->
- <br>
-
-## Proyectos:
-
-<!-- markdownlint-enable MD033 -->
--Recipes App 🥧🍔 --> Full stack app que consume una API para mostrar y crear nuevas recetas! [Click here!](https://github.com/FlorenciaHQ/PI-Food-FT15a)
+-RECIPES APP  --> Proyecto individual Full Stack en el cual se desarrolla una página lista para utilizar. La misma posee un paginado de recetas que pueden ser filtradas por tipos de dietas, por nombre y pueden ser ordenadas por puntuación o de A-Z y viceversa. Por otro lado también permite la creación y carga de una receta propia del usuario. 
+Para la creación de la página se consume de la API Spooncular. [Repo!](https://github.com/FlorenciaHQ/PI-Food-FT15a)
 <br>
 
--Breaking Bad Fan App ⭐🎞 --> Full stack app que consume una api para mostrar personajes de la serie de televisión ! [Click here!](https://github.com/FlorenciaHQ/RepasoPI-BreakingBad)
+<p align="center">DESEO APRENDER:</p>
 
----
-<!-- markdownlint-enable MD033 -->
-<br>
-
-## Wish-List
-
-<div style={{ display:'flex' }}>
-<img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" width="50px" height="50px">
-<img src="https://sebastian-gomez.com/typescript.png" width="50px" height="50px">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="50px" height="50px">
+<div align="center">
+    <table>
+    <tr>
+    <td align="center"><img height="50px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png"></td>
+    <td align="center"><img height="50px" src="./icons/python.svg.png"></td>
+    <td align="center"><img height="50px" src="./icons/Typescript.svg.png"></td>
+    <td align="center"><img height="50px" src="./icons/java.png"></td>
+    </tr>
+    <tr>
+        <td align="center">React Native</td>
+        <td align="center">Python</td>
+        <td align="center">Typescript</td>
+        <td align="center">Java</td>
+    </tr>
+    </table>
 </div>
 
----
-<!-- markdownlint-enable MD033 -->
-<br>
 
-<details>
-    <summary>&#128187 <b>Actividades en GitHub</b></summary><br/>
+<p align="center">¡CONTACTAME!:<p>
+  
+<h1 align="center">
+  
+<a target="_blank" href="https://www.linkedin.com/in/florencia-hidalgo-quiroz/">
+  <img align="center" 
+       alt="Linkdein" 
+       width="30px" 
+       src="./icons/linledin.webp" />
+  </a>
 
-<!--START_SECTION:activity-->
--Actualmente trabajando en: `Henropoly`.
-<!--END_SECTION:activity-->
+  
+<a target="_blank" href="mailto:joseleonardoagreda@gmail.com">
+  <img align="center" 
+       alt="gmail" 
+       width="30px" 
+       src="./icons/email.webp" />
+  </a>
+</h1>
 
-</details>
-
-<details>
-    <summary>&#127942 <b>Premios de GitHub</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=FlorenciaHQ)
-
-</details>
-
-<details>
-    <summary>&#9889 <b>Estadísticas en GitHub</b></summary><br/>
+<div align="center">
+<H2 align="center"><strong>ESTADÍSTICAS: 📈
+  </strong>
+</H2>
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FlorenciaHQ&show_icons=true&theme=tokyonight)
 [![Mis lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorenciaHQ&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-
-</details>
-
-# Contáctame:
-### 📧 Email:
-- florenciahidalgoq@hotmail.com
-### 🟦 LinkedIn:
-- [LinkedIn](https://www.linkedin.com/in/florencia-hidalgo-quiroz/)
-
----
-<!-- markdownlint-enable MD033 -->
-
-Muchas gracias por ver mi perfil, que tengas un buen día. 👋😁
